@@ -4,7 +4,7 @@
 
 * B. Zhang, J. Huang, N. P. Pitsianis, and X. Sun. **recFMM: Recursive Parallelization of the Adaptive Fast Multipole Method for Coulomb and Screened Coulomb Interactions.** _Commun. Comput. Phys._ 20 (2016), 534-550. 
 
-* Y. Gu, W. Chen, and B. Zhang. **Stress Analysis for Two-Dimensional Thin Structural Problems using the Meshless Singular Boundary Method.**_ Eng. Anal. Bound. Elem._ 59 (2016), 1-7. 
+* Y. Gu, W. Chen, and B. Zhang. **Stress Analysis for Two-Dimensional Thin Structural Problems using the Meshless Singular Boundary Method.** _Eng. Anal. Bound. Elem._ 59 (2016), 1-7. 
 
 * B. Zhang, B. Peng, J. Huang, N. P. Pitsianis, X. Sun, and B. Lu. **Parallel AFMPB Solver with Automatic Surface Meshing for Calculation 
 of Molecular Solvation Free Energy.**  _Comput. Phys. Commun._ 190 (2015), 173-181 
