@@ -1,3 +1,5 @@
+* J. DeBuhr, B. Zhang, L. D'Alessandro. **Scalable Hierarchical Multipole Methods using an Asynchronous Many-Tasking Runtime System** In _Proceedings of Parallel and Distributed Processing Symposium Workshops_, 1226-1234, 2017
+
 * J. DeBuhr, B. Zhang, A. Tsueda, V. Tilstra-Smith, and T. Sterling. **DASHMM: Dynamic Adaptive System for Hierarchical Multipole Methods.** _Commun. Comput. Phys._ 20 (2016), 1106-1126.
 
 * B. Zhang, J. Huang, N. P. Pitsianis, and X. Sun. **recFMM: Recursive Parallelization of the Adaptive Fast Multipole Method for Coulomb and Screened Coulomb Interactions.** _Commun. Comput. Phys._ 20 (2016), 534-550. 
@@ -5,7 +7,7 @@
 * Y. Gu, W. Chen, and B. Zhang. **Stress Analysis for Two-Dimensional Thin Structural Problems using the Meshless Singular Boundary Method.**_ Eng. Anal. Bound. Elem._ 59 (2016), 1-7. 
 
 * B. Zhang, B. Peng, J. Huang, N. P. Pitsianis, X. Sun, and B. Lu. **Parallel AFMPB Solver with Automatic Surface Meshing for Calculation 
-of Molecular Solvation Free energy.** _Comput. Phys. Commun._ 190 (2015), 173-181 
+of Molecular Solvation Free Energy.**  _Comput. Phys. Commun._ 190 (2015), 173-181 
 
 * Y. Gu, W. Chen, Z.-J. Fu, and B. Zhang. **The Singular Boundary Method: Mathematical Background and Application in Orthotropic Elastic Problems.** _Eng. Anal. Bound. Elem._  44 (2014), 152-160
 
