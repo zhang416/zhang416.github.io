@@ -1,3 +1,10 @@
+### 2018
+* F. Fang, J. Huang, G. Huber, J. A. McCammon, B. Zhang. **Hierarchical Orthogonal Matrix Generation and Matrix-Vector Multiplications in Rigid Body Simulations** _SIAM J. Sci. Comp._ in press
+
+* W. Guan, X. Cheng, J. Huang, G. Huber, W. Li, J. A. McCammon, B. Zhang. **RPYFMM: Parallel Adaptive Fast Multipole Method for Rotne-Prager-Yamakawa Tensor in Biomolecular Hydrodynamics Simulations** _Comput. Phys. Commun._ 227 (2018), 99-108
+
+* J. DeBuhr, B. Zhang, T. Sterling. **Revision of DASHMM: Dynamic Adaptive System for Hierarchical Multipole Methods** _Comun. Comput. Phys._ 23 (2018), 296-314
+
 ### 2017
 * J. DeBuhr, B. Zhang, L. D'Alessandro. **Scalable Hierarchical Multipole Methods using an Asynchronous Many-Tasking Runtime System** In _Proceedings of Parallel and Distributed Processing Symposium Workshops_, 1226-1234, 2017
 
