@@ -1,5 +1,5 @@
 ### 2018
-* F. Fang, J. Huang, G. Huber, J. A. McCammon, B. Zhang. **Hierarchical Orthogonal Matrix Generation and Matrix-Vector Multiplications in Rigid Body Simulations** _SIAM J. Sci. Comp._ in press
+* F. Fang, J. Huang, G. Huber, J. A. McCammon, B. Zhang. **Hierarchical Orthogonal Matrix Generation and Matrix-Vector Multiplications in Rigid Body Simulations** _SIAM J. Sci. Comp._ 40 (2018), A1345-A1361
 
 * W. Guan, X. Cheng, J. Huang, G. Huber, W. Li, J. A. McCammon, B. Zhang. **RPYFMM: Parallel Adaptive Fast Multipole Method for Rotne-Prager-Yamakawa Tensor in Biomolecular Hydrodynamics Simulations** _Comput. Phys. Commun._ 227 (2018), 99-108
 
